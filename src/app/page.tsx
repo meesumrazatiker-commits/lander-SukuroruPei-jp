@@ -17,7 +17,7 @@ export default function Home() {
             スクロールして稼ぐプログラム
           </h1>
 
-          <a href="https://trkfy.org/aff_c?offer_id=2691&aff_id=22375" target="_blank" rel="noopener noreferrer" className="w-full">
+          <a href="https://glctrk.org/aff_c?offer_id=3531&aff_id=22375&source=fcJP" target="_blank" rel="noopener noreferrer" className="w-full">
             <button className="w-full bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold py-4 px-8 rounded-full flex items-center justify-center text-lg hover:opacity-90 transition-opacity mb-3">
               今すぐ有効化
             </button>
@@ -63,7 +63,7 @@ export default function Home() {
             </div>
           </div>
 
-          <a href="https://trkfy.org/aff_c?offer_id=2691&aff_id=22375" target="_blank" rel="noopener noreferrer" className="w-full">
+          <a href="https://glctrk.org/aff_c?offer_id=3531&aff_id=22375&source=fcJP" target="_blank" rel="noopener noreferrer" className="w-full">
             <button className="w-full bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold py-4 px-8 rounded-full flex items-center justify-center text-lg hover:opacity-90 transition-opacity mt-10">
               今すぐ有効化
             </button>
